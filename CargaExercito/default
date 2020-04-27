@@ -1,0 +1,14 @@
+﻿[Main]
+Version=2
+
+[cbOrgao: TcxPropertiesStoreComponent]
+=
+EditValue=4
+
+[cbUnidade: TcxPropertiesStoreComponent]
+=
+
+[OpenDialog: TcxPropertiesStoreComponent]
+=
+InitialDir=""
+

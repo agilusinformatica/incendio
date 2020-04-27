@@ -1,0 +1,21 @@
+[update]
+newversion=3.7.9.13
+localversion=agilus.exe_new
+
+[files]
+count=2
+
+[file1]
+url=http://www.agilus.com.br/credilima/agilus.exe_new
+targetdir={APP}
+descr=Sistema Agilus
+
+[file2]
+url=http://www.agilus.com.br/credilima/agilus.chm
+targetdir={APP}
+descr=Ajuda do Sistema Agilus
+
+*[file3]
+*url=http://www.agilus.com.br/credilima/agilus.udl
+*targetdir={APP}
+*descr=Configuração da Conexão

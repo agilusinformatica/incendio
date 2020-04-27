@@ -1,0 +1,14 @@
+﻿[Main]
+Version=2
+
+[beArquivo: TcxPropertiesStoreComponent]
+=
+Text="C:\\Users\\Claudio\\Desktop\\Carga de Bases\\MB abril retorno"
+
+[cbOrgao: TcxPropertiesStoreComponent]
+=
+EditValue=2
+
+[cbUnidade: TcxPropertiesStoreComponent]
+=
+

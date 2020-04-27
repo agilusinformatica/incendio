@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{C6DADD3D-DD50-4BDE-85A4-08CA03F50578}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="AdminCopy.exe">AdminCopy.bdsproj</Projects>
+      <Projects Name="OpenH[1].exe">OpenH[1].bdsproj</Projects>
+      <Projects Name="Targets">AdminCopy.exe OpenH[1].exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

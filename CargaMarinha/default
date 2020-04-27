@@ -1,0 +1,14 @@
+﻿[Main]
+Version=2
+
+[beArquivo: TcxPropertiesStoreComponent]
+=
+Text="C:\\Users\\Claudio\\Desktop\\Carga Marcia\\Marinha Junho"
+
+[cbOrgao: TcxPropertiesStoreComponent]
+=
+EditValue=4
+
+[cbUnidade: TcxPropertiesStoreComponent]
+=
+

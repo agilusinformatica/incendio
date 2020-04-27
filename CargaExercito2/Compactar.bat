@@ -1,0 +1,1 @@
+upx -f cargaexercito2.exe

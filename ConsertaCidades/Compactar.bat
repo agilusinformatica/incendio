@@ -1,0 +1,1 @@
+upx -f consertacidades.exe

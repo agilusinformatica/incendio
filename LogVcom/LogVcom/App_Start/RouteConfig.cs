@@ -24,6 +24,11 @@ namespace LogVcom
                 url: "{nomeCliente}",
                 defaults: new { controller = "Ligacao", action = "Index", id = UrlParameter.Optional }
             );
+            routes.MapRoute(
+                name: "RegistraLigacaoEntrante",
+                url: "Entrante/{nomeCliente}",
+                defaults: new { controller = "Entrante", action = "Index" }
+            );
 
 
         }

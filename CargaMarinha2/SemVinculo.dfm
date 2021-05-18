@@ -50,7 +50,8 @@ object frmSemVinculo: TfrmSemVinculo
     TabOrder = 1
     object cxGrid1DBTableView1: TcxGridDBTableView
       OnKeyUp = cxGrid1DBTableView1KeyUp
-      OnEditKeyUp = cxGrid1DBTableView1EditKeyUp
+      Navigator.Buttons.CustomButtons = <>
+      OnEditKeyDown = cxGrid1DBTableView1EditKeyUp
       DataController.DataSource = dmDados.dsNaoVinculado
       DataController.KeyFieldNames = 'nome'
       DataController.Summary.DefaultGroupSummaryItems = <>

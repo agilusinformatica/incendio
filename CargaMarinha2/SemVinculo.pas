@@ -9,7 +9,7 @@ uses
   cxCustomData, cxFilter, cxData, cxDataStorage, DB, cxDBData, cxGridLevel,
   cxClasses, cxGridCustomView, cxGridCustomTableView, cxGridTableView,
   cxGridDBTableView, cxGrid, cxTextEdit, cxMemo, cxDBLookupComboBox, Menus,
-  StdCtrls, cxButtons;
+  StdCtrls, cxButtons, cxNavigator;
 
 type
   TfrmSemVinculo = class(TForm)
